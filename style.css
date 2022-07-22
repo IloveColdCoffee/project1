@@ -1,0 +1,154 @@
+
+body{
+    background-color: rgb(0, 0, 0);
+    height: 1500px;
+    width: 1000px;
+}
+.nkarheader{
+    height: 500px;
+    width: 1400px;
+    margin-left: 40px;
+
+}
+.nkarsteam{
+    height: 60px;
+    width: 60px;
+    margin-left: -20px;
+    bottom: 200px;
+}
+#nkarheader, #nkarsteam, #steam, #nkarxbox, #xbox, #pls, #buy, #header, #txt{
+    position: relative;
+}
+.steam{
+    color: aliceblue;
+    font-size: 20px;
+    bottom: 265px;
+    left: 160px;
+}
+
+.nkarxbox{
+    height:70px;
+    width: 100px;
+    left: 170px;
+ 
+    bottom: 190px;
+}
+.xbox{
+    color: aliceblue;
+    font-size: 20px;
+    bottom: 307px;
+    left: 350px;
+}
+.pls{
+    height: 100px;
+    bottom: 180px;
+    left: 150px;
+}
+.header{
+    width: 1470px;
+    height: 70px;
+    background-color: rgb(24, 54, 17);
+    margin-top: -100px;
+    border-style: none;
+}
+.home{
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    margin-top: -115px;
+}
+.buy{
+    background-color: brown;
+    color: aliceblue;
+    font-size: 25px;
+    width: 200px;
+    
+    bottom: 70px;
+    margin-left: 1200px;
+    cursor:pointer;
+   
+
+}
+.buy:hover{
+    background-color: crimson;
+}
+.txt, .a{
+    color: aliceblue;
+    font-size: 20px;
+    display: flex;
+    justify-content:space-around;
+    width: 450px;
+    margin-left: 700px;
+    margin-top: -63px;
+    cursor: pointer;
+    
+}
+.link{
+    text-decoration: none;
+    color: aliceblue;
+    cursor: pointer;
+
+    
+}
+.faq:hover{
+    
+    font-size: 21px;
+    margin-bottom: 0px;
+}
+.home1:hover{
+    
+    font-size: 21px;
+    margin-bottom: 0px;
+}
+.req:hover{
+    
+    font-size: 21px;
+    margin-bottom: 0px;
+}
+.forum:hover{
+    
+    font-size: 21px;
+    margin-bottom: 0px;
+}
+.contacthr{
+    height: 350px;
+    background-color: rgb(255, 0, 0);
+    width: 1470px;
+    border-style: hidden;
+    margin-top: 250px;
+}
+.contact{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    top: -150px;
+    left: -15px;
+    display: flex;
+    margin-left: 150px;
+}
+#contacthr, #icons, #link0{
+    position: relative;
+}
+.icons{
+    display: flex;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    left: 165px;
+    bottom: 240px;
+}
+.fb1{
+    margin-left: 10px;
+}
+.twt1{
+    margin-left: -5px;
+}
+.icons:hover{
+    color: aliceblue;
+}
+.contact:hover{
+    color: aliceblue;
+}
+    
+
+
+
+

@@ -1,0 +1,108 @@
+body{
+    background-color: black;
+    color: aliceblue;
+    background-image: url(https://images.pushsquare.com/screenshots/96931/large.jpg);
+    width: 1400px;
+    height: 600px;
+    
+}
+.msr{
+    font-size: 25px;
+    
+    
+}
+.rsr{
+    font-size: 25px;
+    left: 500px;
+
+}
+
+.qwe{
+    display: flex;
+    justify-content: center;
+    margin-top: 600px;
+    left: 280px;
+    margin-bottom: 550px;
+    top: 100px;
+}
+.logo{
+    height:100px;
+    width: 200px;
+    margin-top:-350px;
+    margin-right: -200px;
+}
+#logo, #qwe{
+    position:absolute;
+}
+
+
+.header{
+    width: 1460px;
+    height: 70px;
+    background-color: rgb(24, 54, 17);
+    margin-top: 400px;
+    border-style: none;
+    flex-wrap:nowrap;
+    
+}
+.home{
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    margin-top: -80px;
+    nav-left: 25px;
+}
+.buy{
+    background-color: brown;
+    color: aliceblue;
+    font-size: 25px;
+    width: 200px;
+    
+    bottom: 70px;
+    margin-left: 1200px;
+    cursor:pointer;
+   
+
+}
+.buy:hover{
+    background-color: crimson;
+}
+.txt, .a{
+    color: aliceblue;
+    font-size: 20px;
+    display: flex;
+    justify-content:space-around;
+    width: 450px;
+    margin-left: 700px;
+    margin-top: -63px;
+    cursor: pointer;
+    
+}
+.link{
+    text-decoration: none;
+    color: aliceblue;
+    cursor: pointer;
+
+    
+}
+.faq:hover{
+    
+    font-size: 21px;
+    margin-bottom: 0px;
+}
+.home1:hover{
+    
+    font-size: 21px;
+    margin-bottom: 0px;
+}
+.req:hover{
+    
+    font-size: 21px;
+    margin-bottom: 0px;
+}
+.forum:hover{
+    
+    font-size: 21px;
+    margin-bottom: 0px;
+}
+    
+
